@@ -1,4 +1,4 @@
-Identity
+##Identity
 - Enforce MFA globally
 - Block legacy authentication
 - Use Security Defaults or Conditional Access baseline
